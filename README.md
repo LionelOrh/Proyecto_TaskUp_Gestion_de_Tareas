@@ -54,18 +54,21 @@
 <p><strong>Cambio de Mentalidad:</strong> La creciente preocupación por la salud mental ha llevado a las personas a buscar herramientas para manejar el estrés relacionado con la sobrecarga de tareas. Aplicaciones como Asana ayudan a estructurar y visualizar las tareas, promoviendo un enfoque más saludable.</p>
 <p><strong>Diversidad en el Uso:</strong> La aplicación puede ser útil para estudiantes, profesionales y personas con responsabilidades del hogar, adaptándose a diversas necesidades y estilos de vida.</p>
 <p><strong>Colaboración y Trabajo en Equipo:</strong> La gestión de tareas es esencial en entornos colaborativos. La capacidad de asignar y seguir tareas en grupo, como lo permite Trello, es un valor añadido significativo.</p>
-    <a href="https://asana.com/es">https://asana.com/es</a>
+    <p><a href="https://asana.com/es">https://asana.com/es</a></p>
+    <img src="https://github.com/user-attachments/assets/b3141e5d-e2f3-415b-ae19-b8f8dc5d31b4" width="500px">
 <h3>3.2 Ecológico</h3>
 <p>La digitalización de la gestión de tareas contribuye a la reducción del uso de papel, lo que es beneficioso para el medio ambiente. La aplicación, al centralizar la información y permitir la restauración de tareas completadas en lugar de eliminarlas, promueve un enfoque más sostenible en la gestión del tiempo y las tareas.</p>
 <p><strong>Reducción de Papel:</strong> La digitalización de la gestión de tareas contribuye a la disminución del uso de papel, apoyando prácticas más sostenibles. La organización de tareas en formato digital en lugar de en papel es un paso hacia un estilo de vida más ecológico.</p>
 <p><strong>Conciencia Ecológica:</strong> A medida que crece la conciencia sobre el cambio climático, las herramientas que ayudan a los usuarios a ser más organizados son vistas como parte de un compromiso con la sostenibilidad.</p>
 <p><strong>Promoción de Prácticas Sostenibles:</strong> La aplicación puede incluir características que incentiven a los usuarios a ser más sostenibles, como recordatorios para tareas relacionadas con el medio ambiente.</p>
-    <a href="https://blog.wenda-it.com/es/digitalizacion-documentos-reduccion-papel">https://blog.wenda-it.com/es/digitalizacion-documentos-reduccion-papel</a>
+    <p><a href="https://blog.wenda-it.com/es/digitalizacion-documentos-reduccion-papel">https://blog.wenda-it.com/es/digitalizacion-documentos-reduccion-papel</a></p>
+    <img src="https://github.com/user-attachments/assets/77cd038b-f47a-4b22-bf92-4edc9e1de4fc" width="500px">
 <h3>3.3 Político</h3>
 <p>En el contexto actual, la gestión del tiempo y la organización personal son prioritarias para mejorar la productividad laboral y educativa. Las políticas gubernamentales fomentan el uso de tecnologías que optimicen la eficiencia en el trabajo, lo que crea un entorno favorable para la implementación de aplicaciones de gestión de tareas.</p>
 <p><strong>Apoyo a la Digitalización:</strong> Los gobiernos están fomentando la digitalización para aumentar la productividad. Por ejemplo, programas como "Transformación Digital" en varios países ofrecen recursos y capacitación para el uso de tecnologías en la gestión de proyectos.</p>
 <p><strong>Normativas Laborales:</strong> Existen políticas que promueven un equilibrio entre trabajo y vida personal, lo cual aumenta la demanda de herramientas que ayuden a gestionar tareas y tiempo de manera efectiva. Esto se puede vincular a iniciativas como la Ley de Conciliación Laboral en algunos países.</p>
 <p><strong>Iniciativas Educativas:</strong> Programas que integran el uso de tecnología en la educación, preparando a los estudiantes para herramientas como aplicaciones de gestión de tareas, apoyan la adaptación a un entorno laboral digitalizado.</p>
+    <img src="https://github.com/user-attachments/assets/6b7b6ac4-cf25-491c-877e-3ed896c06507" width="400px">
 <h3>3.4 Económico</h3>
 <p>La ineficiencia en la gestión del tiempo puede traducirse en pérdidas económicas significativas tanto a nivel personal como empresarial. La implementación de herramientas digitales como la aplicación de gestión de tareas puede optimizar procesos y reducir costos, al facilitar la priorización y organización de actividades, lo que a su vez potencia la productividad y potencialmente el rendimiento financiero.</p>
 <p><strong>Costos de Ineficiencia:</strong> La falta de organización en el trabajo puede generar pérdidas significativas. Según un estudio de McKinsey, las empresas pueden perder hasta un 20% de su tiempo debido a la ineficiencia en la gestión de tareas.</p>
@@ -73,6 +76,8 @@
 <p><strong>Retorno de Inversión (ROI):</strong> Las herramientas de gestión de tareas pueden demostrar un alto ROI. Un informe de Forrester señala que las empresas que implementan tecnologías de gestión del tiempo ven un aumento en la productividad de hasta un 30%.</p>
     <p><a href="https://www.xataka.com.mx/empresas-y-economia/hemos-llegado-al-punto-maxima-ineficiencia-humana-microsoft-midio-cuanto-tiempo-nos-reunimos-se-ha-llevado-manos-a-cabeza-sorpresa">https://www.xataka.com.mx/empresas-y-economia/hemos-llegado-al-punto-maxima-ineficiencia-humana-microsoft-midio-cuanto-tiempo-nos-reunimos-se-ha-llevado-manos-a-cabeza-sorpresa</a></p>
     <p><a href="https://clickup.com/es-ES/blog/109039/trello-frente-a-todoist">https://clickup.com/es-ES/blog/109039/trello-frente-a-todoist</a></p>
+    <img src="https://github.com/user-attachments/assets/2da20738-aff4-44d6-a69d-aa74836d9397" width="200px">
+    <img src="https://github.com/user-attachments/assets/c7debc63-9c51-4ed2-9d97-8bb04700b02e" width="300px">
 <h3>3.5 Tecnológico</h3>
 <p>El avance tecnológico permite la creación de aplicaciones intuitivas que integran funcionalidades avanzadas como recordatorios y gestión de prioridades. La disponibilidad de dispositivos móviles facilita el acceso a estas herramientas en cualquier momento y lugar. Sin embargo, es fundamental diferenciarse en un mercado saturado de aplicaciones similares, ofreciendo una experiencia de usuario fluida y atractiva como el uso de íconos de prioridad y un botón flotante para agregar tareas fácilmente.</p>
 <p><strong>Accesibilidad Móvil:</strong> La disponibilidad de dispositivos móviles permite que las aplicaciones de gestión de tareas sean accesibles en cualquier lugar. Esto apoya la tendencia de trabajo remoto y flexible.</p>
@@ -80,6 +85,7 @@
 <p><strong>Competencia en el Mercado:</strong> Con muchas aplicaciones disponibles, es esencial que la aplicación se distinga por su interfaz intuitiva y características únicas, como la categorización de tareas y priorización visual, aspectos que pueden atraer a más usuarios.</p>
     <p><a href="https://developers.google.com/calendar/api/concepts/reminders?hl=es-419">https://developers.google.com/calendar/api/concepts/reminders?hl=es-419</a></p>
     <p><a href="https://asana.com/es/uses/task-management">https://asana.com/es/uses/task-management</a></p>
+    <img src="https://github.com/user-attachments/assets/6e7e63df-db01-4a90-8a00-b1221f077d93" width="500px">
     <h2 id="objetivos">4. Objetivos</h2>
     <h3>4.1 OBJ 1</h3>
     <p>Desarrollar una aplicación de gestión de tareas para IOS que permita a los usuarios crear, organizar y priorizar sus actividades de manera intuitiva. El objetivo es que al menos el 90% de los usuarios pueda registrar y gestionar sus tareas dentro de los primeros cinco minutos de su uso para enero de 2025.</p>

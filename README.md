@@ -78,6 +78,8 @@
 <p><strong>Accesibilidad Móvil:</strong> La disponibilidad de dispositivos móviles permite que las aplicaciones de gestión de tareas sean accesibles en cualquier lugar. Esto apoya la tendencia de trabajo remoto y flexible.</p>
 <p><strong>Integración de Funciones:</strong> Las características como recordatorios, notificaciones y sincronización con calendarios, como se ve en Google Calendar, mejoran la funcionalidad y la experiencia del usuario.</p>
 <p><strong>Competencia en el Mercado:</strong> Con muchas aplicaciones disponibles, es esencial que la aplicación se distinga por su interfaz intuitiva y características únicas, como la categorización de tareas y priorización visual, aspectos que pueden atraer a más usuarios.</p>
+    <p><a href="https://developers.google.com/calendar/api/concepts/reminders?hl=es-419">https://developers.google.com/calendar/api/concepts/reminders?hl=es-419</a></p>
+    <p><a href="https://asana.com/es/uses/task-management">https://asana.com/es/uses/task-management</a></p>
     <h2 id="objetivos">4. Objetivos</h2>
     <h3>4.1 OBJ 1</h3>
     <p>Desarrollar una aplicación de gestión de tareas para IOS que permita a los usuarios crear, organizar y priorizar sus actividades de manera intuitiva. El objetivo es que al menos el 90% de los usuarios pueda registrar y gestionar sus tareas dentro de los primeros cinco minutos de su uso para enero de 2025.</p>
